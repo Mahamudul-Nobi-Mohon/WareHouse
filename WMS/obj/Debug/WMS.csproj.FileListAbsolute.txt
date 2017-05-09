@@ -1,0 +1,25 @@
+D:\C# Project\WMS\WMS\WMS\obj\Debug\WMS.csprojResolveAssemblyReference.cache
+D:\C# Project\WMS\WMS\WMS\obj\Debug\WMS.Properties.Resources.resources
+D:\C# Project\WMS\WMS\WMS\obj\Debug\WMS.csproj.GenerateResource.Cache
+D:\C# Project\WMS\WMS\WMS\bin\Debug\WMS.exe.config
+D:\C# Project\WMS\WMS\WMS\bin\Debug\WMS.exe
+D:\C# Project\WMS\WMS\WMS\bin\Debug\WMS.pdb
+D:\C# Project\WMS\WMS\WMS\obj\Debug\WMS.exe
+D:\C# Project\WMS\WMS\WMS\obj\Debug\WMS.pdb
+D:\C# Project\WMS\WMS\WMS\obj\Debug\WMS.AddUnit.resources
+D:\C# Project\WMS\WMS\WMS\obj\Debug\WMS.MainBody.resources
+D:\C# Project\WMS\WMS\WMS\obj\Debug\WMS.AddWarehouse.resources
+D:\C# Project\WMS\WMS\WMS\obj\Debug\WMS.AddCell.resources
+D:\C# Project\WMS\WMS\WMS\obj\Debug\WMS.AddRoom.resources
+\\KAMRUL-PC\Users\Public\Mohon\WMS\WMS\WMS\bin\Debug\WMS.exe.config
+\\KAMRUL-PC\Users\Public\Mohon\WMS\WMS\WMS\bin\Debug\WMS.exe
+\\KAMRUL-PC\Users\Public\Mohon\WMS\WMS\WMS\bin\Debug\WMS.pdb
+\\KAMRUL-PC\Users\Public\Mohon\WMS\WMS\WMS\obj\Debug\WMS.AddRoom.resources
+\\KAMRUL-PC\Users\Public\Mohon\WMS\WMS\WMS\obj\Debug\WMS.AddCell.resources
+\\KAMRUL-PC\Users\Public\Mohon\WMS\WMS\WMS\obj\Debug\WMS.AddWarehouse.resources
+\\KAMRUL-PC\Users\Public\Mohon\WMS\WMS\WMS\obj\Debug\WMS.MainBody.resources
+\\KAMRUL-PC\Users\Public\Mohon\WMS\WMS\WMS\obj\Debug\WMS.Properties.Resources.resources
+\\KAMRUL-PC\Users\Public\Mohon\WMS\WMS\WMS\obj\Debug\WMS.AddUnit.resources
+\\KAMRUL-PC\Users\Public\Mohon\WMS\WMS\WMS\obj\Debug\WMS.csproj.GenerateResource.Cache
+\\KAMRUL-PC\Users\Public\Mohon\WMS\WMS\WMS\obj\Debug\WMS.exe
+\\KAMRUL-PC\Users\Public\Mohon\WMS\WMS\WMS\obj\Debug\WMS.pdb
